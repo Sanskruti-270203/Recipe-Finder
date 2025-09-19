@@ -1,6 +1,9 @@
 🍳 Interactive Recipe Finder
+
 An interactive and responsive Recipe Finder Web Application built using HTML, CSS, and JavaScript.
+
 It allows users to search for recipes based on available ingredients, view detailed instructions, and save their favorite recipes for quick access.
+
 
 🚀 Features
 
@@ -19,6 +22,7 @@ Favourites cart adapts into a bottom drawer style on mobile devices.
 
 🎨 Modern UI
 Smooth animations, gradient background, hover effects, and a user-friendly layout.
+
 
 🛠️ Tech Stack
 
